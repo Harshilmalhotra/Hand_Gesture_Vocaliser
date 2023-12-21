@@ -14,3 +14,8 @@ General, deaf people have difficulty in communicating with others who don’t un
 4.Wires
 
 5.Android Device
+
+
+![image](https://github.com/Harshilmalhotra/Hand_Gesture_Vocaliser/assets/111488708/f1efc595-4b0d-49e2-b4d9-0a8c0ea2ecd2)
+
+![image](https://github.com/Harshilmalhotra/Hand_Gesture_Vocaliser/assets/111488708/0eb4fede-91d2-4f0d-8817-ad96e811a821)
