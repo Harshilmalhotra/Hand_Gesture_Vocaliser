@@ -4,6 +4,7 @@
  *  Parts:-  1. Flex Sensor
  *           2. Arduino
  *           3. HC-05
+ *           4. MIT App Inventor 2
  */
 
 
